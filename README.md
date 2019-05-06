@@ -19,6 +19,7 @@ This plugin adds that functionality.
 
 * Writing this was a fun exercise, inspired by a 
 [question in the bbPress forums](https://bbpress.org/forums/topic/add-tags-to-bbpress-notify/).
+* Minimum requirements: PHP 7.1, WP 5.1 and bbPress 2.5.
 * Do what you want with it! Extend it some more, even. It _probably_ will not be developed any 
 further, however (it was written on a whim/out of curiosity, more than anything).
 * Note that if you try to verify things using an email logging plugin such as 
